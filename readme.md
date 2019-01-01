@@ -1,5 +1,4 @@
-A fork of [https://github.com/blasten/turn.js](https://github.com/blasten/turn.js)
-with support for npm/yarn.
+A fork of [turn.js v4](http://www.turnjs.com/) with support for npm/yarn.
 
 ## Usage
 
